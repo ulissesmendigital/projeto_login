@@ -1,12 +1,12 @@
 # projeto_login
 Exemplo de abordagem GIT GITHUB
 
-Do PcLocal Para github
-Testes Extras
+Esta simulação representa explicação pontual sobre uso e entendimento do controle de versão de projetos com GIT e GITHUB
 
-novo teste
+# Parte 1:
 
-teste final
+# Parte 2:
+
 
 # Link excalidraw:
 https://excalidraw.com/#json=b29fRpNu2Qzf0RQPruHWZ,4cEp2jIHTHqNjSEZR4P0tg
