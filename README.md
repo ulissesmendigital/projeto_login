@@ -4,6 +4,7 @@ Exemplo de abordagem GIT GITHUB
 Esta simulação representa explicação pontual sobre uso e entendimento do controle de versão de projetos com GIT e GITHUB
 
 # Parte 1:
+https://www.youtube.com/watch?v=9QH9P2-c-a8
 
 # Parte 2:
 
