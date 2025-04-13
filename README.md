@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=9QH9P2-c-a8
 https://studio.youtube.com/video/2aoAlJRdI3E/edit
 
 
-# Parte 3:
+# Parte 3: 
 Definindo acesso...
 
 # Parte 4:
