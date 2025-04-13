@@ -7,8 +7,10 @@ Esta simulação representa explicação pontual sobre uso e entendimento do con
 https://www.youtube.com/watch?v=9QH9P2-c-a8
 
 
+
 # Parte 2:
 https://studio.youtube.com/video/2aoAlJRdI3E/edit
+
 
 
 # Parte 3:
