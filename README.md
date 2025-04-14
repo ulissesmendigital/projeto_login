@@ -18,6 +18,9 @@ Definindo acesso...
 # Parte 4:
 Teste
 
+#Parte 6:
+Configuração SSH
+
 
 # Link excalidraw:
 https://excalidraw.com/#json=b29fRpNu2Qzf0RQPruHWZ,4cEp2jIHTHqNjSEZR4P0tg
